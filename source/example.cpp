@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 
 #define rep(a, b)   for(int a = 0; a < (b); ++a)
@@ -14,10 +13,7 @@ int main() {
     cin.tie(nullptr);
     cout.precision(10);
 
-
-    //content
-
+    // content
 
     return 0;
 }
-
